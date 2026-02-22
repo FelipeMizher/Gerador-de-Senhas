@@ -69,7 +69,7 @@ O projeto está organizado da seguinte forma:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/FelipeMizher/NOME-DO-REPOSITORIO.git
+   git clone https://github.com/FelipeMizher/Gerador-de-Senhas.git
 
 2. Abra o arquivo index.html diretamente no navegador 
 
